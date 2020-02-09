@@ -1,0 +1,5 @@
+.idea/
+*.class
+text-ui-test/ACTUAL.TXT
+*.iml
+out/
